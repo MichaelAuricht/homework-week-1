@@ -12,7 +12,6 @@ body {
 }
 
 /*Affects the header section of the page*/
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,14 +46,12 @@ header div ul li {
 }
 
 /*affects the colour/decoration of links "a"*/
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 /*affects the font size of paragraphs "p"*/
-
 p {
     font-size: 16px;
 }
@@ -71,7 +68,6 @@ p {
 }
 
 /*affects the benefits sidebar on the right*/
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,7 +93,6 @@ p {
 }
 
 /*affects the main content area of the page*/
-
 .content {
     width: 75%;
     display: inline-block;
@@ -106,7 +101,6 @@ p {
 }
 
 /*tells the images in the main content block how to align*/
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -118,7 +112,6 @@ p {
 }
 
 /*affects the three principles in the main content area*/
-
 .principle {
     margin-bottom: 20px;
     padding: 50px;
@@ -129,20 +122,17 @@ p {
 }
 
 /*keeps the images in the main content area a reasonable size*/
-
 .principle img {
     max-height: 200px;
 }
 
 /*affects the header h2 of the main content area*/
-
 .principle h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 /*affects the footer of the page*/
-
 footer {
     padding: 30px;
     clear: both;
